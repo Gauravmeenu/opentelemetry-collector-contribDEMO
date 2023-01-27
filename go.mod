@@ -1,4 +1,4 @@
-module github.com/open-telemetry/opentelemetry-collector-contrib
+module github.com/Gauravmeenu/opentelemetry-collector-contribDEMO
 
 go 1.18
 

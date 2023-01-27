@@ -1,4 +1,4 @@
-module github.com/open-telemetry/opentelemetry-collector-contrib/exporter/elasticsearchexporter
+module github.com/Gauravmeenu/opentelemetry-collector-contribDEMO/exporter/elasticsearchexporter
 
 go 1.18
 
